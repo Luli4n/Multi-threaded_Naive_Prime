@@ -56,5 +56,6 @@ public class Main {
         }
 
         System.out.print(scores.stringifyScores());
+        System.out.print("Kocham Klausie");
     }
 }
